@@ -65,23 +65,15 @@ p {
 
 /* Hero ends */
 
+/* Left-hand side content starts */
 .content img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -92,39 +84,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-lead .benefit-brand .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 .benefit-brand h3 .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .search-engine-optimization {
@@ -154,6 +113,57 @@ p {
     color: #ffffff;
 }
 
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Left-hand side content ends */
+
+/* Benefits starts */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-lead .benefit-brand .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 .benefit-brand h3 .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Benefits ends */
+
+
+/* Footer starts */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -164,3 +174,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Footer ends */
