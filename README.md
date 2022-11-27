@@ -2,11 +2,11 @@
 
 ## Description
  
-This repo contains the first challenge of the Front-End Web Developer bootcamp which consists of an on-the-job ticket: a starter code that needs to be modified. The aim of the challenge is to improve the code by making it more **accessibile**. 
+This repo contains the first challenge of the Front-End Web Developer bootcamp which consists of an on-the-job ticket: a starter code that needs to be modified. The aim of the challenge is to improve the code by making it more **accessible**. 
 
 Once the code is improved, the result should look like the image below:
  
-![alt text](/Assets/01-html-css-git-challenge-demo.png)
+![screenshot of index page](./index-screenshot.png)
 
 In order to make the code more accessible, I have focused on the below:
 
@@ -17,7 +17,7 @@ In order to make the code more accessible, I have focused on the below:
 * Adding meaningful comments to the HTML and CSS files 
 
 
-### Resources:
+### Resources
 
 * [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
 
@@ -26,7 +26,7 @@ In order to make the code more accessible, I have focused on the below:
 
 I have run into the below issues during the challenge:
 
-* Deciding whether images are descriptive or not, therefore need an empty alt attribute or not
+* Deciding whether images are descriptive or not, therefore needing an empty alt attribute or not
 * Deciding whether the hero picture should be a `div` or `figure` element
 
 ### Link to deployed application
