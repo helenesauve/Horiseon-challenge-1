@@ -104,7 +104,6 @@ p {
 /* Left-hand side content ends */
 
 /* Benefits starts */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -121,18 +120,6 @@ p {
     color: #ffffff;
 }
 
-/*
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-*/
-
 .benefit-lead h3 .benefit-brand h3 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -148,7 +135,6 @@ p {
 
 
 /* Footer starts */
-
 .footer {
     padding: 30px;
     clear: both;
